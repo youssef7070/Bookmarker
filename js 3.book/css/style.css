@@ -92,9 +92,8 @@ h2 {
     content: "";
     position: absolute;
     left: 50%;
+    margin-top: 60px;
     transform: translateX(-50%);
-    bottom: 35%;
-     transform: translateY(35%);
     width: 90%;
     border: 1px dotted #352e28;
 }
